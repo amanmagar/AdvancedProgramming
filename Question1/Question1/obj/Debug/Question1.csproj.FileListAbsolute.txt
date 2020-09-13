@@ -1,0 +1,7 @@
+D:\ISMT\ISMT 3rd Semester\AProgramming\1st assngment\Question1\Question1\bin\Debug\Question1.exe.config
+D:\ISMT\ISMT 3rd Semester\AProgramming\1st assngment\Question1\Question1\bin\Debug\Question1.exe
+D:\ISMT\ISMT 3rd Semester\AProgramming\1st assngment\Question1\Question1\bin\Debug\Question1.pdb
+D:\ISMT\ISMT 3rd Semester\AProgramming\1st assngment\Question1\Question1\obj\Debug\Question1.csprojAssemblyReference.cache
+D:\ISMT\ISMT 3rd Semester\AProgramming\1st assngment\Question1\Question1\obj\Debug\Question1.csproj.CoreCompileInputs.cache
+D:\ISMT\ISMT 3rd Semester\AProgramming\1st assngment\Question1\Question1\obj\Debug\Question1.exe
+D:\ISMT\ISMT 3rd Semester\AProgramming\1st assngment\Question1\Question1\obj\Debug\Question1.pdb
